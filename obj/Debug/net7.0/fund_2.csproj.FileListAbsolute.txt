@@ -1,0 +1,15 @@
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\bin\Debug\net7.0\fund_2.exe
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\bin\Debug\net7.0\fund_2.deps.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\bin\Debug\net7.0\fund_2.runtimeconfig.json
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\bin\Debug\net7.0\fund_2.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\bin\Debug\net7.0\fund_2.pdb
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\obj\Debug\net7.0\fund_2.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\obj\Debug\net7.0\fund_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\obj\Debug\net7.0\fund_2.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\obj\Debug\net7.0\fund_2.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\obj\Debug\net7.0\fund_2.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\obj\Debug\net7.0\fund_2.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\obj\Debug\net7.0\refint\fund_2.dll
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\obj\Debug\net7.0\fund_2.pdb
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\obj\Debug\net7.0\fund_2.genruntimeconfig.cache
+C:\Users\Anthony\Desktop\coding dojo files\Class\C#\assignments\fund_2\obj\Debug\net7.0\ref\fund_2.dll
